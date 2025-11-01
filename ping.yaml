@@ -2,4 +2,4 @@
   hosts: app
   tasks: 
   - name: Pinging the server
-    ansible.buildin.ping:
+    ansible.builtin.ping:
