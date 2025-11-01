@@ -1,7 +1,6 @@
 - name: variables
   hosts: app
   vars:
-  - name: "declaring variables"
     course: "Ansible learning"
     duration: "120hrs"
     trainer: "sivakumar"
